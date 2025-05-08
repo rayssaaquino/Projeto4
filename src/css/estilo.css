@@ -13,7 +13,7 @@ header{
     justify-content: space-between;
     align-items: center;
     background: white;
-    box-shadow: #555;
+    box-shadow:5px 5px 5px #555;
 }
 
 header nav ul{
